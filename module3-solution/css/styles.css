@@ -23,10 +23,10 @@
 
 .navbar-default div.navbar-collapse
 {
-    border-top: 2px solid black;
+/*    border-top: 2px solid black;
     box-shadow: none;
     background-color: yellow;
-}
+*/}
 
 #nav-list hr {
 	margin-top: 4px;
